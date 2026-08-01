@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/NEHAJAKATE"><img src="https://img.shields.io/badge/GitHub-1B5E20?style=for-the-badge&logo=github&logoColor=E8F5E9"/></a>
-  <a href="https://www.linkedin.com/in/neha-jakate/"><img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=E8F5E9"/></a>
+  <a href="https://linkedin.com/in/NehaJakate"><img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=E8F5E9"/></a>
   <a href="mailto:nehajakate94@gmail.com"><img src="https://img.shields.io/badge/Email-388E3C?style=for-the-badge&logo=gmail&logoColor=E8F5E9"/></a>
 </p>
 
@@ -57,10 +57,16 @@ flowchart TD
     G -->|Yes| I[🌳 It works. Do not touch it.]
     I --> J[🚀 Ship it & write a README pretending it was all planned]
 
-    style A fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px
-    style C fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px
-    style I fill:#A5D6A7,stroke:#1B5E20,stroke-width:2px
-    style J fill:#66BB6A,stroke:#1B5E20,stroke-width:2px,color:#fff
+    style A fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style B fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style C fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style D fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style E fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style F fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style G fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style H fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style I fill:#A5D6A7,stroke:#1B5E20,stroke-width:2px,color:#000000
+    style J fill:#66BB6A,stroke:#1B5E20,stroke-width:2px,color:#000000
 ```
 
 ---
