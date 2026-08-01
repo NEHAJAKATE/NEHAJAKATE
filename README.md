@@ -157,7 +157,7 @@ Enterprise Data Platforms
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NEHAJAKATE&hide_border=true&background=00000000&ring=66BB6A&fire=2E7D32&currStreakLabel=1B5E20"/>
+  <img src="https://streak-stats.demolab.com?user=NEHAJAKATE&hide_border=true&background=00000000&border=00000000&stroke=66BB6A&ring=66BB6A&fire=66BB6A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A5D6A7&sideLabels=A5D6A7&dates=C8E6C9"/>
 </p>
 
 <p align="center">
